@@ -5,7 +5,7 @@
 ### What's in here
 
 * [index.xhtml](index.xhtml): The main HTML5 file using eXtensible Hyper Text Markup Language to be able to load XSLT.
-* [plantilla.xsl](plantilla.xsl): The XSL file doing the transformations (looks and ifs)
+* [plantilla.xsl](plantilla.xsl): The XSL file doing the transformations (loops, ifs...)
 
 ### See it in action
 
